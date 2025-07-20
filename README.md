@@ -1,41 +1,15 @@
 # Hi there! 👋 I'm Kody
 
-**Frontend Developer transitioning to Backend Data Engineering** 🚀
+**Frontend Developer → Backend Data Engineering** 🚀
 
-Lead Frontend Developer at TomasinoWeb, now diving deep into Python backend development and data engineering.
+Lead Frontend Dev transitioning to Python backend & data systems.
 
-## 💻 Current Skills
+## 🌱 Currently Learning
 
-- **Frontend**: Typescript, React
-- **Learning**: Python, FastAPI, SQL
-- **Tools**: Git, VSCode
+Python • FastAPI • SQL • Data Processing • Web Scraping
 
-## 🌱 Learning Journey
+## 🎯 2025 Focus
 
-- Building REST APIs with Python
-- Database design and SQL
-- Data processing with Pandas
-- Web scraping automation
-- System architecture patterns
+Building APIs, data pipelines, and automation tools
 
-## 🎯 2025 Goals
-
-- Master Python backend development
-- Build my first data pipeline
-- Deploy APIs to the cloud
-- Create data visualization dashboards
-
-## 📚 Learning Projects
-
-- [ ] Bantay Presyo API
-- [ ] Personal expense tracker API
-- [ ] Web scraper for market data
-- [ ] Simple ETL pipeline
-- [ ] Interactive dashboard
-
-## 📫 Let's Connect
-
-- Email: [w.jamesdevera@gmail.com]
-- X: [https://x.com/itsmekodyy]
-
-_"Building the backend systems that power data-driven decisions"_
+📫 [Email](w.jamesdevera@gmail.com) • [X](https://x.com/itsmekodyy)
