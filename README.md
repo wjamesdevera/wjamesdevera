@@ -8,7 +8,7 @@ Lead Frontend Dev transitioning to Python backend & data systems.
 
 Python • FastAPI • SQL • Data Processing • Web Scraping
 
-## 🎯 2025 Focus
+## 🎯 2026 Focus
 
 Building APIs, data pipelines, and automation tools
 
