@@ -33,7 +33,7 @@ Currently, I'm going deeper into **data engineering — databases, data processi
 
 **[MoodMeter](#)** — Full-stack application with a mood-tracking workflow and analytics dashboard for university counselors.
 
-**[TwinCJ Booking System](#)** — Full-stack booking platform built with Express.js and Next.js, with automated booking workflows and cloud deployment.
+**[TwinCJ Booking System](https://twin-cj.vercel.app/)** — Full-stack booking platform built with Express.js and Next.js, with automated booking workflows and cloud deployment.
 
 **[More projects →](#)**
 
@@ -44,6 +44,20 @@ Building → **Backend & Data Engineering**
 Learning → **Python · SQL · Databases · Data Pipelines**
 
 Based in → **Quezon City, Philippines**
+
+## Notes
+
+This profile documents my transition from **frontend engineering toward backend and data engineering**.
+
+Some projects are polished. Some are experiments. Some exist simply because I wanted to understand how something works.
+
+I'm particularly interested in the intersection of:
+
+**Software Engineering · Backend Systems · Data · Infrastructure**
+
+The common thread is simple:
+
+> Build it. Understand it. Improve it.
 
 ## Contact
 
