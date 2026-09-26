@@ -35,7 +35,7 @@ Currently, I'm going deeper into **data engineering — databases, data processi
 
 **[TwinCJ Booking System](https://twin-cj.vercel.app/)** — Full-stack booking platform built with Express.js and Next.js, with automated booking workflows and cloud deployment.
 
-**[More projects →](#)**
+**[More projects →](https://www.winfreydevera.com/)**
 
 ## Currently
 
